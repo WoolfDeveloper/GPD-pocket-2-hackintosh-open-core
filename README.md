@@ -1,0 +1,1 @@
+# GPD-pocket-2-hackintosh-open-core
